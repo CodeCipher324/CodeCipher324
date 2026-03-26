@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="150" src="https://i.imgur.com/6RLkx.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🛡️ Cybersecurity Student & Bug Bounty Hunter  
 🔍 Passionate about Web Security & Ethical Hacking  
